@@ -8,5 +8,5 @@ Documentation Proposal
 
 
 
-Note: pasting the content of the documents into Solutions allows for quick access, and also may be helpful for Samanage search/AI suggestions, i.e. content of attachments may not be found as easily?
+Note: pasting the content of the documents into Solutions allows for quick access of information, and also may be helpful for Samanage search/AI suggestions, i.e. content of attachments may not be found as easily?
 
