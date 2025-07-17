@@ -2,9 +2,9 @@
 
 
 
-* **create** documentation as markdown documents
-* **store** these documents in CSD Operations > General > Files > Documentation in Markdown Format
-* in Samanage, **paste** the content of each document into a stand-alone Solution or a Solution RELATED to specific ticket; and, **add** the document itself as an attachment to the applicable Solution, for reference
+* **CREATE** documentation as markdown documents
+* **STORE** these documents in CSD Operations > General > Files > Documentation in Markdown Format
+* in Samanage, **PASTE** the content of each document into a stand-alone Solution or a Solution RELATED to specific ticket; and, **ADD** the document itself as an attachment to the applicable Solution, for reference
 
 
 
