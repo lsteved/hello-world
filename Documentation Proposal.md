@@ -23,10 +23,10 @@ A few notes
 Sample markdown template
 
 # Title
-How to do a thing
+Title of documentation (e.g. How to Do Task X)
 
 ## Description
-This is the latest procedure for accomplishing this thing in a given context
+A brief description of Task X, with relevant context
 
 ## Steps
 - Step 1
@@ -44,51 +44,3 @@ This is the latest procedure for accomplishing this thing in a given context
 
 ## Author
 Contributor name and email
-
-
-### Title
-
-How to do a thing
-
-
-
-#### Description
-
-This is the latest procedure for accomplishing this thing in a given context
-
-
-
-#### Steps
-
-\- Step 1
-
-\- Step 2
-
-\- Step 3
-
-
-
-#### Potential issues/pitfalls
-
-\- Potential issue 1
-
-\- Potential issue 2
-
-
-
-#### Relevant Links
-
-\[Link text](https://www.website.com)
-
-
-
-\[Link text](https://www.website.com)
-
-
-
-#### Author
-
-Contributor name and email
-
-
-
