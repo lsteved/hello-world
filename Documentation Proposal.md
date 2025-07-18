@@ -22,7 +22,7 @@ A few notes
 
 Sample markdown documentation template
 
-## Title
+# Title
 Title of documentation (e.g. How to Do Task X)
 
 ## Description
