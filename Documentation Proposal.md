@@ -20,7 +20,7 @@ A few notes
 
 
 
-Sample markdown template
+Sample markdown documentation template
 
 # Title
 Title of documentation (e.g. How to Do Task X)
