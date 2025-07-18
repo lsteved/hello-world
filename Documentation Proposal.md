@@ -22,6 +22,28 @@ A few notes
 
 Sample markdown template
 
+# Title
+How to do a thing
+
+## Description
+This is the latest procedure for accomplishing this thing in a given context
+
+## Steps
+- Step 1
+- Step 2
+- Step 3
+
+## Potential issues/pitfalls
+- Potential issue 1
+- Potential issue 2
+
+## Relevant Links
+[Link text](https://www.website.com)
+
+[Link text](https://www.website.com)
+
+## Author
+Contributor name and email
 
 
 ### Title
