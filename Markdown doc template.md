@@ -31,12 +31,12 @@ Contributor name and email
 ```
 MARKDOWN SYNTAX MINI-GUIDE: 
 
-Headings:	Bold/italics:	Unordered lists:	Links:				
-# Heading 1	**bold**	- Item 1		[Visit OpenAI](https://www.openai.com)		
+Headings:	Bold/italics:	Unordered lists:	Links:			                     Horizontal line:	
+# Heading 1	**bold**	- Item 1		[Visit OpenAI](https://www.openai.com)		---
 ## Subheading	*italic*	- Item 2			
 
-Images:				Code:				Blockquotes:		Horizontal line:
-![Image of a cat]		`print("Hello, World!")`	> This is a quote.	---
+Images:				Code:				Blockquotes:		
+![Image of a cat]		`print("Hello, World!")`	> This is a quote.	
 https://example.com/cat.jpg)
 
 
