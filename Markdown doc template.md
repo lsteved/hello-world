@@ -31,7 +31,7 @@ Contributor name and email
 ```
 MARKDOWN SYNTAX MINI-GUIDE: 
 
-Headings:	Bold/italics:	Unordered lists:	Links:			                     Horizontal line:	
+Headings:	Bold/italics:	Unordered lists:	Links:			                        Horizontal line:	
 # Heading 1	**bold**	- Item 1		[Visit OpenAI](https://www.openai.com)		---
 ## Subheading	*italic*	- Item 2			
 
