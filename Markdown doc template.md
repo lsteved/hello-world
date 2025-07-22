@@ -35,9 +35,9 @@ Headings:	Bold/italics:	Unordered lists:	Links:			                        Horizo
 # Heading 1	**bold**	- Item 1		[Visit OpenAI](https://www.openai.com)		---
 ## Subheading	*italic*	- Item 2			
 
-Images:				Code:				Blockquotes:		
-![Image of a cat]		`print("Hello, World!")`	> This is a quote.	
-https://example.com/cat.jpg)
+Images:				                                      Code:				                 Blockquotes:		
+![Image of a cat](https://example.com/cat.jpg)		 `print("Hello, World!")`	 > This is a quote.	
+
 
 
 Additional markdown formatting syntax info:
