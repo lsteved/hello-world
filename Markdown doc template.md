@@ -35,8 +35,8 @@ Headings:	Bold/italics:	Unordered lists:	Links:
 # Heading 1	**bold**	- Item 1		[Visit OpenAI](https://www.openai.com)			
 ## Subheading	*italic*	- Item 2		
 
-Code:				Blockquotes:		Horizontal line:            Images:
-`print("Hello, World!")`	> This is a quote.	---                         ![Image of a cat]https://example.com/cat.jpg)
+Code:				Blockquotes:		Horizontal line:          Images:
+`print("Hello, World!")`	> This is a quote.	---                       ![Image of a cat]https://example.com/cat.jpg)
 
 
 
