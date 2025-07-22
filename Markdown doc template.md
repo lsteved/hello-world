@@ -36,7 +36,7 @@ Headings:	Bold/italics:	Unordered lists:	Links:
 ## Subheading	*italic*	- Item 2		
 
 Code:				Blockquotes:		Horizontal line:            Images:
-`print("Hello, World!")`	> This is a quote.	---                             ![Image of a cat]https://example.com/cat.jpg)
+`print("Hello, World!")`	> This is a quote.	---                           ![Image of a cat]https://example.com/cat.jpg)
 
 
 
