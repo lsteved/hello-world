@@ -14,7 +14,7 @@ A few notes
 - Teams(SharePoint) is suggested as the primary documentation storage location due to its convenient interface (e.g. no API request required to download all attached documents, as with Samanage), whereas the documentation content would also be added to Samanage to facilitate efficient day-to-day support work
 - as a result of the documentation being stored in Teams, Copilot Chat or an Agent (using the Documentation in Markdown Format folder above as its knowledge source) could be used to retrieve information from the documentation, combine the documents into a single spreadsheet via their markdown headings, etc.
 - Copilot Analyst and Researcher could also be used, for more in-depth information requests
-- pasting the content of the documents into Solutions, instead of only adding them as attachments, would allow for easier viewing of information, and may also be helpful for Samanage search/AI suggestions (i.e. attachment content did appear in my Search test)
+- pasting the content of the documents into Solutions, instead of only adding them as attachments, would allow for easier viewing of information, and may also be helpful for Samanage search/AI suggestions (i.e. attachment content did not appear in my Search test)
 - this documentation management approach would involve minimal setup and not require the addition of any new platforms or software (i.e. Analyst and Researcher are already enabled in Copilot, and an Agent like the one mentioned above can be created quite easily)
 
 
