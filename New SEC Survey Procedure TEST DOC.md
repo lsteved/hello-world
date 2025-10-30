@@ -10,7 +10,7 @@ In order to only have the responses available at a certain date (i.e. after the 
 
 ## Steps
 - Step 1:
-SO... UPON REQUEST, (after ensuring the the Student Experience of Courses module in the SEC course has the correct tag for the current term; see end of final step below for more details) import the Student Experience of Courses module into the required course(s) and send the following message to the instructor (after updating the dates to the relevant term): 
+SO... UPON REQUEST, (after ensuring that the Student Experience of Courses module in the SEC course has the correct tag for the current term; see end of final step below for more details) import the Student Experience of Courses module into the required course(s) and send the following message to the instructor (after updating the dates to the relevant term): 
 
 I've added the survey module to the end of the General section in your course. The survey is currently hidden from students, and you can make it visible whenever you are ready. 
 
@@ -51,6 +51,7 @@ As also noted in the Description... I removed the ability of Professors to Backu
 
 ## Author
 Contributor Steve Dawson, sdawson@mta.ca
+
 
 
 
