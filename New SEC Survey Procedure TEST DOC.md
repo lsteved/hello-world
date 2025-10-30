@@ -10,9 +10,8 @@ In order to only have the responses available at a certain date (i.e. after the 
 
 ## Steps
 - Step 1:
-SO... UPON REQUEST, import the Student Experience of Courses module into the required course(s) and send the following message to the instructor (after updating the dates to the relevant term): 
+SO... UPON REQUEST, (after ensuring the the Student Experience of Courses module in the SEC course has the correct tag for the current term; see end of final step below for more details) import the Student Experience of Courses module into the required course(s) and send the following message to the instructor (after updating the dates to the relevant term): 
 
- 
 I've added the survey module to the end of the General section in your course. The survey is currently hidden from students, and you can make it visible whenever you are ready. 
 
 Also, here is a resource related to the survey [Student Experience of Courses Survey NEW.pdf](https://moodle.mta.ca/pluginfile.php/40942/mod_resource/content/7/Student%20Experience%20of%20Courses%20Survey%20NEW.pdf?redirect=1)   
@@ -26,6 +25,9 @@ THEN... on May 19th (or applicable date for that term), go to [Tags | Mount Alli
 
 - Step 3:
 THEN... on May 31st (or applicable date for that term), go back in and remove the permissions you added on May 19th for each course. And (this is according to the policy governing the survey), delete the survey data, i.e. delete the module from each course. Note: simply deleting the survey will also accomplish the "remove the permissions you added" step.
+
+- Step 4:
+FINALLY... now that the surveys have been deleted, do a tag search for the current tag (e.g. sec25fa) to ensure that the SEC course is the only result that appears, and then go to the SEC course and change the tag to reflect the upcoming term (e.g. if you just finished deleting the survey modules with the sec25fa tag on January 31st of 2026, you would now update the tag to sec26wi, in order to be ready when those survey requests start to come in).
 
 ## Potential issues/pitfalls
 - Potential issue 1:
@@ -49,5 +51,6 @@ As also noted in the Description... I removed the ability of Professors to Backu
 
 ## Author
 Contributor Steve Dawson, sdawson@mta.ca
+
 
 
