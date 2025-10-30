@@ -39,7 +39,7 @@ Future Spring/Summer Term Release Periods: the 2 weeks leading into September 30
 Future Fall Term Release Periods: the 2 weeks leading into January 31st of the following calendar year
 
 - Potential issue 2:
-As also noted in the Description... I removed the ability of Professors to Backup activities for the Survey Feedback Activity/module, though they can still back it up as part of a full course backup
+As also noted in the Description... I removed the ability of Professors to Backup activities for the Survey Feedback Activity/module, though they can still back it up as part of a full course backup.
 
 
 ## Relevant Links
@@ -51,6 +51,7 @@ As also noted in the Description... I removed the ability of Professors to Backu
 
 ## Author
 Contributor Steve Dawson, sdawson@mta.ca
+
 
 
 
