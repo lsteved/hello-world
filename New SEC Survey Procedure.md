@@ -38,6 +38,9 @@ Winter Term Release Periods, the 2 weeks leading into May 31st of that calendar 
 - Note 2:
 As also noted in the Description... I removed the ability of Professors to Backup activities for the Survey Feedback Activity/module, though they can still back it up as part of a full course backup, and import the survey into other courses, etc.
 
+- Note 3:
+IMPORTANT UPDATE: Another update, regarding survey anonymity, was implemented on December 4, 2025. The moodle/course:manageactivities capability was removed for all instructors and TAs under the SEC Feedback activity module Permissions, in order to prevent possible changes to survey anonymity or completion tracking settings. This also removed the Settings menu entirely, as well as certain options under the 3 dot menu for the activity on the main course page. Therefore certain survey customizations will now need to be carried out by the Educational Technology Consultant, upon request. Instructor can still hide/unhide the surveys, as desired. (The survey resource sent out to instructors has been updated to reflect this change)
+
 
 ## Relevant Links
 [Student Experience of Courses module in the SEC course](https://moodle.mta.ca/mod/feedback/view.php?id=400586)
